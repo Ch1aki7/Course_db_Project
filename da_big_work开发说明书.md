@@ -14,7 +14,7 @@
 
 新建数据库连接
 
-![image-20251231113317388](C:\Users\pofvvvv\AppData\Roaming\Typora\typora-user-images\image-20251231113317388.png)
+![image-20251231113317388](./images/image1.png)
 
 选mysql，服务器地址：gateway01.us-west-2.prod.aws.tidbcloud.com，端口为4000
 
@@ -24,7 +24,7 @@
 
 记得添加ssl，只勾选需要ssl这一选项。
 
-![image-20251231113540816](C:\Users\pofvvvv\AppData\Roaming\Typora\typora-user-images\image-20251231113540816.png)
+![image-20251231113540816](./images/image1.png)
 
 点击测试连接，若成功则点击确定，至此就成功建立了连接，可以通过DBeaver对数据库进行操作。
 
